@@ -16,10 +16,8 @@ Write a function called `welcome_message()` that interacts with the user and ret
 Completed program should:
 
 - Ask the user for their name, age, and favorite color using `input()`.
-- Return a welcome message formatted as:
-  `Hello, [name]! You are [age] years old and your favorite color is [color].`
-- Example output:
-  `Hello, Alice! You are 25 years old and your favorite color is blue.`
+- Return a welcome message formatted as: `Hello, [name]! You are [age] years old and your favorite color is [color].`
+- Example output: `Hello, Alice! You are 25 years old and your favorite color is blue.`
 
 ### 🛠️ Basic Arithmetic
 
@@ -31,10 +29,14 @@ Completed program should:
 
 - Ask the user to enter two numbers.
 - Add the numbers together.
-- Print the result. Example:
-  Enter the first number: 3
-  Enter the second number: 7
-  10
+- Print the result.
+
+#### Example
+```
+Enter the first number: 3
+Enter the second number: 7
+10
+```
 
 ### 🛠️ Conditional Statements
 
