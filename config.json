@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "csv-data-cleanup",
+      "title": "CSV Data Cleanup Challenge",
+      "description": "Read CSV data, clean messy values, and summarize key insights using built-in Python tools.",
+      "path": "assignments/csv-data-cleanup",
+      "dueDate": "2026-09-08",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Data",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
